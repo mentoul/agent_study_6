@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.log
+alarm_log.txt
+.vscode/
